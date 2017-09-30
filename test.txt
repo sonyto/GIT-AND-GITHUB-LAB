@@ -1,5 +1,4 @@
-Change here
-Updating with Tortoise
-Dots here
-Updating with Bash
-Make a conflict
+Change here...
+Updating with new line here
+Tortoise...
+Dots here...
